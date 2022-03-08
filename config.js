@@ -1,11 +1,9 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
+    titleWeb: "TO:... <3",
+    introTitle: 'Mảnh ghép quý giá của A2',
+    introDesc: `Chẳng cần bánh ngọt với kem
+    Chỉ cần mình nói yêu nhau, đủ rồi! `,
+    btnIntro: '^^ hehe ^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Thích lắm <33',
@@ -15,6 +13,6 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    btnAccept: 'Yeu A2 nhieu',
+   
 }
